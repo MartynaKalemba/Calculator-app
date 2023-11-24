@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_text">Enter text</string>
+    <string name="button_author">Author</string>
+    <string name="Back">back</string>
+    <string name="Author">Author: Martyna Kalemba</string>
+    <string name="button_simpleCalculator">Simple Calculator</string>
+    <string name="button_advancedCalculator">Advanced Calculator</string>
+
+    <!--Calculator strings -->
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+
+    <string name="clear_all">AC</string>
+    <string name="clear">C</string>
+    <string name="del">del</string>
+    <string name="equal">=</string>
+    <string name="plusminus">+/-</string>
+    <string name="dot">.</string>
+
+    <!--Advanced Calculator strings -->
+    <string name="temporary">o-o</string>
+
+    <string name="percent">%</string>
+
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tg">tg</string>
+    <string name="ctg">ctg</string>
+
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+
+    <string name="sqrt">√</string>
+    <string name="power2">x^2</string>
+    <string name="powerY">x^y</string>
+
+</resources>
